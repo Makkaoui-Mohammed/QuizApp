@@ -23,3 +23,6 @@ Score final (Score.java) :
 L'activité de score final affiche le score total sous forme de pourcentage (tvScore).
 Une barre de progression (progressBar) représente visuellement le score.
 Deux boutons sont disponibles : "Logout" (bLogout) pour quitter l'application et "Try Again" (bTry) pour recommencer le quiz.
+
+[QuizApp.zip](https://github.com/Makkaoui-Mohammed/QuizApp/files/13998531/QuizApp.zip)
+
